@@ -2,8 +2,8 @@ import React, { Component } from 'react'
 import RegisterForm from '../../components/forms/register/RegisterForm.component'
 import Hero from '../../components/hero/Hero.component'
 
+export default class RegisterPage extends Component {
 
-export default class login extends Component {
   render() {
     return (
       <>

@@ -2,7 +2,7 @@ import React, { Component } from 'react'
 import LoginForm from '../../components/forms/login/LoginForm.component'
 import Hero from '../../components/hero/Hero.component'
 
-export default class login extends Component {
+export default class LoginPage extends Component {
   constructor(props) {
     super(props)
   }
